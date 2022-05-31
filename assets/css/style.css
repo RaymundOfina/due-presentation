@@ -143,9 +143,9 @@ main {
   flex-wrap: wrap;
   justify-content: center;
 }
-
+/* White border on flexboxes */
 .flex-item {
-  border: 5px solid var(--secondary);
+  border: 10px solid var(--secondary);
   background-color: var(--primary);
   color: var(--tertiary);
   min-height: 150px;
