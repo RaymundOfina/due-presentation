@@ -8,12 +8,8 @@
 ( Fill out later)
 
 It utilizes the following features:
-- Node.js
-- Express.js
-- API
-- MySQL and Sequelize DB
-- Handlebars template engine
-- Fully deployed stand-alone application on Heroku
+
+( Fill out later)
 
 ## Table of Contents
 
@@ -30,14 +26,7 @@ It utilizes the following features:
 
 ## Usage
 
-- Follow instructions from the installation section
-- Open a terminal window
-- Navigate to the directory you saved your project files in
-- Open MySQL and create the database with 'source db/schema.sql'
-- Run 'node seeds/index' to seed the database
-- Type the command 'node server' to initialize and run the server
-- Navigate to 'http://localhost:3001'
-- Use the interface to create an account and then browse topics and comment
+(Fill out later)
 
 -- Deployed Link Placeholder--
 
