@@ -27,7 +27,6 @@ It utilizes the following features:
 
 (Fill out later)
 
--- Deployed Link Placeholder--
 
 ### Screenshot:
 
