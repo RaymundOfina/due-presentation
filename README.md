@@ -15,9 +15,7 @@
 - [Prerequisites](#Prerequisites)
   - [Usage](#usage)
 - [Contributing](#contributing)
-- [Support](#support)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 </details>
 
