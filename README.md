@@ -80,16 +80,7 @@ Please follow these steps for manual setup:
 
 #### Contributing
 
-
-| Name                       | Description                                                                 |
-| -------------------------- | ------------------ | --------------------------------------------------------------------------- |
-| JOHN MOONEY                | FRONTEND , BACKEND DESIGN                                                   |
-| RIDER COGSWELL             | FRONTEND & BACKEND                                                          |
-| MARK PROTSYUK              | BACKEND                                                                     |
-| RAYMUND OFINA              | FRONTEND , PRESENTATION , DESIGN                                            |
-|  ELIJAH JOHNSON            | FRONTEND                                                                    |
-                
-
+- [Jon Mooney](https://github.com/JonMooney)
 ## Roadmap
 
 See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
