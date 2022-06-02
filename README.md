@@ -9,11 +9,11 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Installation](#Installation)
 - [ScreenShots](#ScreenShots)
 - [Prerequisites](#Prerequisites)
-  - [Usage](#usage)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
