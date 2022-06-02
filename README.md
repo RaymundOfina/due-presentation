@@ -81,6 +81,10 @@ Please follow these steps for manual setup:
 #### Contributing
 
 - [Jon Mooney](https://github.com/JonMooney)
+- [Rider Cogswell](https://github.com/RiderCogswell)
+- [Mark Protsyuk](https://github.com/MrProtsyuk)
+- [Raymund Ofina](https://github.com/Raymundofina)
+- [Elijah Johnson](https://github.com/elijohnson565)
 ## Roadmap
 
 See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
